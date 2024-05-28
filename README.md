@@ -1,2 +1,2 @@
 # bca-student
-this is my first repository experince
+this is my first git repository experince
